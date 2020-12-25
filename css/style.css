@@ -10,3 +10,7 @@
 #hero .container {
     height: 50vh;
 }
+
+.generic {
+    padding: 100px 0;
+}
