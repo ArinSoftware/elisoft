@@ -61,3 +61,11 @@ section#latest .overlay i {
     font-size: 2rem;
 
 }
+
+
+/* @media (max-width: 767.98px) { 
+    #hero p.lead {
+        font-size: 10px;
+        color: blue;
+    }
+ } */
